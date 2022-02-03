@@ -14,11 +14,16 @@ export default function Post() {
                 <span className="post-cat">Life</span>
             </div>
             <span className="post-title">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Lorem ipsum dolor sit amet
             </span>
             <hr/>
             <span className="post-date">1 hour ago</span>
         </div>
+        <p className="post-desc">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, velit unde! Reiciendis eum in pariatur vel odit quae blanditiis, quod fuga commodi adipisci, nulla autem veritatis similique. In, perspiciatis quibusdam.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, velit unde! Reiciendis eum in pariatur vel odit quae blanditiis, quod fuga commodi adipisci, nulla autem veritatis similique. In, perspiciatis quibusdam.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, velit unde! Reiciendis eum in pariatur vel odit quae blanditiis, quod fuga commodi adipisci, nulla autem veritatis similique. In, perspiciatis quibusdam.
+        </p>
     </div>
   )
 }
