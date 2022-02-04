@@ -1,6 +1,6 @@
 import "./write.css";
 
-export default function write() {
+export default function Write() {
   return (
       <div className="write">
           <img src="https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
